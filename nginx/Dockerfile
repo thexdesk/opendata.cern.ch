@@ -22,7 +22,7 @@
 # waive the privileges and immunities granted to it by virtue of its status
 # as an Intergovernmental Organization or submit itself to any jurisdiction.
 
-FROM nginx:perl
+FROM nginx:1-perl
 
 RUN rm /etc/nginx/conf.d/default.conf
 ADD cernopendata.conf /etc/nginx/conf.d/
