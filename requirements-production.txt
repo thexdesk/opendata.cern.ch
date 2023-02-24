@@ -82,7 +82,7 @@ jsonref==0.1
 jsonresolver==0.2.1
 jsonschema==2.6.0
 jupyter-client==5.1.0
-jupyter-core==4.3.0
+jupyter-core==4.11.2
 kombu==4.1.0
 lxml==4.1.0
 Mako==1.0.7
