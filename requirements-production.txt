@@ -152,3 +152,4 @@ Werkzeug==0.14.1
 whichcraft==0.4.1
 WTForms==2.1
 xrootdpyfs==0.1.5
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
