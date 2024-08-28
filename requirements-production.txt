@@ -35,7 +35,7 @@ Flask-BabelEx==0.9.3
 Flask-Breadcrumbs==0.4.0
 Flask-CeleryExt==0.3.0
 Flask-Collect==1.2.2
-Flask-Cors==3.0.3
+Flask-Cors==4.0.1
 Flask-Login==0.4.0
 Flask-Markdown==0.3
 Flask-Menu==0.6.0
